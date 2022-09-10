@@ -229,8 +229,8 @@ header.fixed #logo {
     }
 }
 
-/* Contacts */
-#contacts {
+/* Feedback */
+#feedback {
     width: 100%;
     float: left;
     padding-bottom: 40px;
@@ -239,7 +239,7 @@ header.fixed #logo {
     background: #f4f4f4;
 }
 
-#contacts h5 {font-size: 3em; margin-top: 5%}
+#feedback h5 {font-size: 3em; margin-top: 5%}
 
 #form_input {
     margin-top: 5%;
